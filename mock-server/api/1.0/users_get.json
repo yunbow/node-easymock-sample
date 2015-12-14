@@ -1,0 +1,20 @@
+[
+	{
+		"userId":"user-id-001",
+		"userName":"Oda Nobunaga",
+		"gender":"male",
+		"age":"47"
+	},
+	{
+		"userId":"user-id-002",
+		"userName":"Toyotomi Hideyoshi",
+		"gender":"male",
+		"age":"62"
+	},
+	{
+		"userId":"user-id-003",
+		"userName":"Tokugawa Ieyasu",
+		"gender":"male",
+		"age":"73"
+	}
+]

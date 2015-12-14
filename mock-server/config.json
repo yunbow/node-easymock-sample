@@ -1,0 +1,13 @@
+{
+	"simulated-lag": {
+		"default": 1000,
+		"paths": [
+			{
+				"match": "user-id-003",
+				"lag": 5000
+			}
+		]
+	},
+	"cors": true
+}
+

@@ -1,0 +1,10 @@
+< @header Location: http://www.pa-rk.co.jp/
+{
+	"userId":"user-id-002",
+	"userName":"Toyotomi Hideyoshi",
+	"gender":"male",
+	"age":"62",
+	"birthDay":"1536/02/02",
+	"address":"Osaka",
+	"message":"try cry hototogisu"
+}
